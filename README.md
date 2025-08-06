@@ -1,2 +1,1 @@
-# health.com
-This website talks about deadly disease
+# Welcome to IT B Group 2 project
